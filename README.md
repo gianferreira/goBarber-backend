@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="Be-The-Hero" src="https://github.com/gianferreira/gostack11-gobarber-backend/blob/master/readme-logo.png" width="200px"/>
+  <img alt="GoBarber" src="https://github.com/gianferreira/gostack11-gobarber-backend/blob/master/readme-logo.png" width="200px"/>
 </h3>
 
 <h1 align="center">
@@ -16,7 +16,7 @@
 
 ## Sobre:
 
-O GoBarber é uma aplicação para controle de agendamento de serviços de beleza. Onde por meio da aplicação mobile, o cliente pode agendar um horário com um prestador de serviço (provider). Na aplicação web, os prestadores de serviço podem cancelar, verificar seus agendamentos, dentre outras funcionalidades.
+O GoBarber é uma aplicação para controle de agendamento de serviços de barbearia. Onde por meio da aplicação mobile, o cliente pode agendar um horário com um prestador de serviço (provider). Na aplicação web, os prestadores de serviço podem cancelar, verificar seus agendamentos, dentre outras funcionalidades.
 
 A API construída com node.js e typescript realiza o cadastro e manutenção de `users`, esses usuários providers possuem `id`,`name`,`email`,`password` e um `avatar`de identificação.
 
