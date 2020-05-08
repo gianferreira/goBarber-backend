@@ -1,5 +1,5 @@
 <h3 align="center">
-  <img alt="GoBarber" src="https://github.com/gianferreira/gostack11-gobarber-backend/blob/master/readme-logo.png" width="200px"/>
+  <img alt="GoBarber" src="https://github.com/gianferreira/gostack11-gobarber-backend/blob/master/readme-logo.svg" width="200px"/>
 </h3>
 
 <h1 align="center">
