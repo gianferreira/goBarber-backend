@@ -19,9 +19,6 @@ class UserToken {
   @Column()
   user_id: string;
 
-  @Column()
-  password: string;
-
   @CreateDateColumn()
   created_at: Date;
 
