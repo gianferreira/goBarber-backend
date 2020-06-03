@@ -17,6 +17,9 @@ class UserToken {
   token: string;
 
   @Column()
+  user_id: string;
+
+  @Column()
   password: string;
 
   @CreateDateColumn()
