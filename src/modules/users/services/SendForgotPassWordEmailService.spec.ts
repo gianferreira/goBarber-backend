@@ -4,7 +4,7 @@ import FakeMailProvider from '@shared/container/providers/MailProvider/fakes/Fak
 import FakeUsersRepository from '../repositories/fakes/FakeUsersRepository';
 import FakeUserTokensRepository from '../repositories/fakes/FakeUserTokensRepository';
 
-import SendForgotPasswordEmailService from './SendForgotPasswordUserService';
+import SendForgotPasswordEmailService from './SendForgotPassWordEmailService';
 
 let fakeUsersRepository: FakeUsersRepository;
 let fakeMailProvider: FakeMailProvider;
