@@ -30,7 +30,7 @@ describe('CreateAppointment', () => {
       return new Date(2020, 5, 10, 10).getTime();
     });
 
-    const appointmentDate = new Date();
+    const appointmentDate = new Date(2020, 5, 10, 10);
 
     await createAppointment.execute({
       date: appointmentDate,
