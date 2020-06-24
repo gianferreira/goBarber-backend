@@ -19,7 +19,7 @@ passwordRouter.post(
 );
 
 passwordRouter.post(
-  '/forgot',
+  '/reset',
   celebrate({
     [Segments.BODY]: {
       token: Joi.string().uuid().required(),
